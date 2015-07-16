@@ -1,2 +1,1 @@
-sleep 1
-t app lowbatt 100 10000000
+t ia2 -ae still_exp 700 2 2
