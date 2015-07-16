@@ -6,3 +6,4 @@ t app button shutter PR
 sleep 10
 d:\autoexec.ash
 REBOOT yes
+1
