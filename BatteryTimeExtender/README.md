@@ -1,4 +1,1 @@
-Battery Life Time Extender
-=========================
-
-Use this hack to NEVER MISS A MOMENT AGAIN!
+t ia2 -ae still_exp 700 2 2
