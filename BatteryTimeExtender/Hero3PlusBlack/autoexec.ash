@@ -1,1 +1,1 @@
-t ia2 -ae still_exp 1600 2 2
+t ia2 -ae still_exp 6400 2 2
